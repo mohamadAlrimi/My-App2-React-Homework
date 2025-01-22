@@ -1,7 +1,9 @@
 .activ {
-    background-color: rgb(6, 82, 56);
-    color: azure;
-    height: 50px;
-    width: auto;
-    text-align: center;
+  background-color: rgb(6, 82, 56);
+  color: azure;
+  height: 200px;
+  width:100% ;
+display: flex;
+justify-content: center;
+align-items: center;
 }
