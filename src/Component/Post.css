@@ -1,6 +1,7 @@
 div .post {
    padding: 2px 2px;
-  background-color: aqua;
+   border: 2px solid green;
+  /* background-color: aqua; */
   text-align: center;
     width: 500px;
     height: 120px;
